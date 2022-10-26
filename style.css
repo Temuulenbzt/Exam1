@@ -215,3 +215,6 @@ li {
 .ip14-img>img{
     padding-bottom: 0;
 }
+.head{
+    position: fixed;
+}
